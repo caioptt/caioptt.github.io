@@ -1,10 +1,15 @@
 #cor-fundo {
  background-color: rgb(162, 0, 255);   
+ background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(Imagens/levi.jpg);
+    background-attachment: fixed
 }
 
 .fundo {
     background-color: #FFF;
     border-radius: 10px;
+    
 }
 
 .botao-cor {
@@ -20,6 +25,19 @@
 }
 
 .alinhamento {
-    margin-left: auto;
+    margin-left: 200px;
     margin-right: auto;
 }
+
+.botao-efeito-2:hover {
+    background: #22019c !important;
+    color: #fff !important;
+    border-color:  #23037c;
+}
+
+.botao-cor-2 {
+    background: #3802fa !important;
+    color: #fff !important;
+    border-color: #3802fa;
+} 
+
