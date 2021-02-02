@@ -18,3 +18,8 @@
     color: #fff !important;
     border-color:  #bb00ab;
 }
+
+.alinhamento {
+    margin-left: auto;
+    margin-right: auto;
+}
