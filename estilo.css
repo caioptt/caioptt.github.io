@@ -8,5 +8,13 @@
 }
 
 .botao-cor {
-    
+    background: #fa02e5 !important;
+    color: #fff !important;
+    border-color: #4300fa;
+} 
+
+.botao-efeito:hover {
+    background: #bb00ab !important;
+    color: #fff !important;
+    border-color:  #bb00ab;
 }
