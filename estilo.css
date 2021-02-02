@@ -1,7 +1,12 @@
 #cor-fundo {
- background-color: rgb(230, 161, 236);   
+ background-color: rgb(162, 0, 255);   
 }
 
 .fundo {
     background-color: #FFF;
+    border-radius: 10px;
+}
+
+.botao-cor {
+    
 }
