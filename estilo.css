@@ -1,43 +1,54 @@
-#cor-fundo {
- background-color: rgb(162, 0, 255);   
- background-size: cover;
-    background-repeat: no-repeat;
-    background-image: url(Imagens/levi.jpg);
+
+
+
+#img-fundo {
+   
+    background-image: url(Imagens/mulan.jpg);
     background-attachment: fixed
 }
 
 .fundo {
     background-color: #FFF;
-    border-radius: 10px;
-    
 }
 
 .botao-cor {
     background: #fa02e5 !important;
     color: #fff !important;
-    border-color: #4300fa;
+    border-color: #fa02e5;
+   
 } 
 
 .botao-efeito:hover {
     background: #bb00ab !important;
     color: #fff !important;
     border-color:  #bb00ab;
+  
 }
 
-.alinhamento {
-    margin-left: 200px;
-    margin-right: auto;
-}
+
 
 .botao-efeito-2:hover {
     background: #22019c !important;
     color: #fff !important;
     border-color:  #23037c;
+   
 }
+
 
 .botao-cor-2 {
     background: #3802fa !important;
     color: #fff !important;
     border-color: #3802fa;
+ 
 } 
+
+button.btn {
+    border-radius: .0rem;
+   
+}
+
+.alinhamento {
+    margin-left: auto;
+    margin-right: auto;
+}
 
