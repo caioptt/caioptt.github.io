@@ -1,8 +1,22 @@
-
 body{
-    font-family: 'Helvetica', 'Arial', sans-serif; 
-    
+     
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+.fonte {
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.espaco {
+    --bs-gutter-x: 0;
+    --bs-gutter-y: 0;
+}
+
+.cor-fonte {
+    color: rgb(120, 2, 230);
+    
+    }
 
 ::-webkit-scrollbar {
     width: 12px;
@@ -39,7 +53,7 @@ body{
 }
 
 .fundo {
-    background-color: rgb(238, 224, 253);
+    background-color: #fff;
 }
 
 .botao-cor {
