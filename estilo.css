@@ -34,7 +34,8 @@ body{
 .cor-fundo {
     background: rgba(44, 13, 95, 0.75);
     width: 100%;
-    position: absolute;
+    height: auto;
+    position: static;
     top: 0;
     background-size: cover;
     background-repeat: no-repeat;
