@@ -67,37 +67,38 @@ body{
 }
 
 .botao-cor {
-    background: #fa02e5 !important;
+    background: #4e23e9 !important;
     color: #fff !important;
-    border-color: #fa02e5;
+    border-color: #4e23e9;
    
 } 
 
 .botao-efeito:hover {
-    background: #bb00ab !important;
+    background: #39218d !important;
     color: #fff !important;
-    border-color:  #bb00ab;
+    border-color:  #351a96;
   
 }
 
 
 
 .botao-efeito-2:hover {
-    background: #22019c !important;
+    background: #3515aa !important;
     color: #fff !important;
-    border-color:  #23037c;
+    border-color:  #321f68;
    
 }
 
 
 .botao-cor-2 {
-    background: #3802fa !important;
-    color: #fff !important;
-    border-color: #3802fa;
- 
+    
+    background: #fff!important;
+    color: #4e23e9 !important;
+    border-color: #4e23e9 !important;
+ border-width: 4px !important;
 } 
 
-button.btn {
+button.btn-lg {
     border-radius: .0rem;
    
 }
